@@ -1,0 +1,19 @@
+{
+  "moduleName": "spuser",
+  "tables": [],
+  "installedModules": [
+    {
+      "module": "serverpod",
+      "version": "20240516151843329"
+    },
+    {
+      "module": "serverpod_auth",
+      "version": "20240520102713718"
+    },
+    {
+      "module": "spuser",
+      "version": "20240531185234775"
+    }
+  ],
+  "migrationApiVersion": 1
+}
